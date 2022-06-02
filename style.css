@@ -1,0 +1,132 @@
+		body {
+			background-color: #36393F;
+		}
+
+		h1 {
+			text-align: center;
+			font-family: Arial, sans-serif;
+			font-weight: normal;
+			color: white;
+
+		}
+
+		h2 {
+			font-family: Arial, sans-serif;
+			color: white;
+		}
+
+		p {
+			font-family: Arial, sans-serif;
+			color: white;
+		}
+
+		summary {
+			font-family: Arial, sans-serif;
+			color: white;
+			background-color: #2F3136;
+		}
+
+		li {
+			font-family: Arial, sans-serif;
+			color: white;
+		}
+
+		a:link {
+			color: lightcyan;
+			background-color: transparent;
+			text-decoration: none;
+		}
+
+		a:visited {
+			color: lightsteelblue;
+			background-color: transparent;
+			text-decoration: none;
+		}
+
+		a:hover {
+			color: paleturquoise;
+			background-color: transparent;
+			text-decoration: underline;
+		}
+
+		a:active {
+			color: lightsteelblue;
+			background-color: transparent;
+			text-decoration: underline;
+		}
+
+		header {
+			background-color: #2F3136;
+			padding: 20px;
+			text-align: center;
+			font-size: 20px;
+			color: white;
+			border-radius: 16px;
+		}
+		section {
+			background-color: #2F3136;
+			padding: 20px;
+			text-align: center;
+			font-size: 20px;
+			color: white;
+			border-radius: 16px;
+		}
+		.button1 {
+			background-color: #5865F2;
+			border: none;
+			color: white;
+			padding: 15px 32px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 16px;
+			margin: 4px 2px;
+			cursor: pointer;
+			border-radius: 8px;
+			transition-duration: 0.4s;
+			}
+		.button2 {
+			background-color: #747F8D;
+			border: none;
+			color: white;
+			padding: 15px 32px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 16px;
+			margin: 4px 2px;
+			cursor: pointer;
+			border-radius: 8px;
+			transition-duration: 0.4s;
+			}
+			.button1:hover {
+			background-color: #7781f2;
+			border: none;
+			color: white;
+			padding: 15px 32px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 16px;
+			margin: 4px 2px;
+			cursor: pointer;
+			border-radius: 8px;
+			transition-duration: 0.4s;
+			}
+		.button2:hover {
+			background-color: #959ca6;
+			border: none;
+			color: white;
+			padding: 15px 32px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 16px;
+			margin: 4px 2px;
+			cursor: pointer;
+			border-radius: 8px;
+			transition-duration: 0.4s;
+			}
+			img {
+			border-radius: 10px;
+			}
