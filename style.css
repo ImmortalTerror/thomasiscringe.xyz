@@ -130,3 +130,8 @@
 			img {
 			border-radius: 10px;
 			}
+ 		hr{
+        		height: 1px;
+        		background-color: #2F3136;
+        		border: none;
+    			}
